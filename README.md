@@ -34,6 +34,6 @@ I'm a Computer Science student passionate about software development, algorithms
 </a>
 
 [![Spotify](https://custom-icon-badges.demolab.com/badge/-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/my09t7p8yj04gtkp3x7a57mqs)
-![Profile views](https://komarev.com/ghpvc/?username=yourusername&color=blue&style=for-the-badge)
+![Profile views](https://komarev.com/ghpvc/?username=pedrodelesporte&color=blue&style=for-the-badge)
 
 ### ✨ Thanks for your attention ✨
