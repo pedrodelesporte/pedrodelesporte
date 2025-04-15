@@ -16,7 +16,7 @@ I'm a Computer Science student passionate about software development, algorithms
 - Data Structures & Algorithms
 - Software Design Patterns
 
-- ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide=issues)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide=html,css)
+
+## 🎵 Now Playing
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_id&cover_image=true&theme=default)](https://open.spotify.com/user/my09t7p8yj04gtkp3x7a57mqs)
