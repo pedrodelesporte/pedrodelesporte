@@ -9,6 +9,12 @@ I'm a Computer Science student passionate about software development, algorithms
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 
+## 🔥 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrodelesporte&show_icons=true&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrodelesporte&layout=compact&theme=radical&hide_border=true)
+
+
 
 ## 📚 Currently Learning
 - C++
@@ -19,4 +25,4 @@ I'm a Computer Science student passionate about software development, algorithms
 
 
 ## 🎵 Now Playing
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_id&cover_image=true&theme=default)](https://open.spotify.com/user/my09t7p8yj04gtkp3x7a57mqs)
+[![Spotify](https://spotify-now-playing-liart.vercel.app/api/spotify)](https://open.spotify.com/user/my09t7p8yj04gtkp3x7a57mqs)
