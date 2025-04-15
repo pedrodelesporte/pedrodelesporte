@@ -5,11 +5,19 @@
 I'm a college student specializing in **Advanced Java and C++** development.
 
 
-## 🔥 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrodelesporte&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrodelesporte&layout=compact&theme=radical&hide_border=true)
-
+## 📊 GitHub Status
+<div align='center'>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=pedrodelesporte&show_icons=true&text_color=ffffff&theme=react&count_private=true&hide_border=true"
+      alt="My GitHub stats"
+      height="160em"/></a>
+  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
+    <img
+      src="https://github-readme-streak-stats-six-ivory.vercel.app/?user=pedrodelesporte&dates=ffffff&theme=react&date_format=j%20M%5B%20Y%5D&ring=ffffff&fire=61dafb&sideNums=ffffff&currStreakNum=ffffff&hide_border=true"
+      alt="My GitHub streak"
+      height="160em"/></a>
+</div>
 
 ## 📚 Currently Learning
 - C++
