@@ -25,7 +25,7 @@ I'm a Computer Science student passionate about software development, algorithms
 
 
 
-## 🎵 Music Vibes
+## 🎵 Now playing
 <a href="https://open.spotify.com/user/my09t7p8yj04gtkp3x7a57mqs">
   <img
     src="https://spotify-github-profile.kittinanx.com/api/view?uid=my09t7p8yj04gtkp3x7a57mqs&show_offline=true&cover_image=true&theme=novatorem&bar_color=00d7f6"
