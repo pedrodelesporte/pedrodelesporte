@@ -15,7 +15,6 @@ I'm a college student specializing in **Advanced Java and C++** development.
 - C++
 - Java
 - Data Structures & Algorithms
-- Software Design Patterns
 
 
 ### ✨ Thanks for your attention ✨
@@ -30,4 +29,4 @@ I'm a college student specializing in **Advanced Java and C++** development.
 
 [![Last.fm](https://custom-icon-badges.demolab.com/badge/-Last.fm-D51007?style=for-the-badge&logo=last.fm&logoColor=white)](https://www.last.fm/user/peedro0hz_)
 [![Spotify](https://custom-icon-badges.demolab.com/badge/-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/your_spotify_id)
-![Profile views](https://komarev.com/ghpvc/?username=yourusername&color=blue&style=for-the-badge)
+![Profile views](https://komarev.com/ghpvc/?username=pedrodelesporte&color=blue&style=for-the-badge)
