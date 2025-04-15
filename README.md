@@ -15,3 +15,8 @@ I'm a Computer Science student passionate about software development, algorithms
 - Java
 - Data Structures & Algorithms
 - Software Design Patterns
+
+- ## 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide=issues)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide=html,css)
