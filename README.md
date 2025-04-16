@@ -1,6 +1,6 @@
 # Hello World! I'm Pedro 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Computer+Science+Student;Advanced+Java+Developer;Advanced+C%2B%2B+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Computer+Science+Student;Java+Developer;+C%2B%2B+Developer)](https://git.io/typing-svg)
 
 I'm a college student specializing in **Advanced Java and C++** development.
 
