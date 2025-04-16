@@ -22,18 +22,13 @@ I'm a college student specializing in **Advanced Java and C++** development.
 ## 📚 Currently Learning
 - C++
 - Java
-- Data Structures & Algorithms
+- Data Structures & Algorithms🏳️
+
 
 
 ### ✨ Thanks for your attention ✨
 
-<a href="https://www.last.fm/user/peedro0hz_">
-  <img
-    src="https://lastfm-github-profile.vercel.app/api/view?user=peedro0hz_&theme=novatorem&bar_color=00d7f6&show_cover=true"
-    alt="Last.fm recent activity"
-    height="100em"
-  />
-</a>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=my09t7p8yj04gtkp3x7a57mqs&cover_image=false&theme=natemoo-re&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 [![Last.fm](https://custom-icon-badges.demolab.com/badge/-Last.fm-D51007?style=for-the-badge&logo=last.fm&logoColor=white)](https://www.last.fm/user/peedro0hz_)
 [![Spotify](https://custom-icon-badges.demolab.com/badge/-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/your_spotify_id)
