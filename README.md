@@ -3,6 +3,6 @@
 Computer Science student focused on building strong fundamentals.
 
 **Languages:** Java, C++  
-**Currently studying:** Advanced Java & Data Structures & Algorithms
+**Currently studying:** Java and Data Structures & Algorithms
 
 📧 pedrodelesporte@outlook.com
